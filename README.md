@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Ipfs Gateway
+# BlackRoad IPFS Gateway
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+Self-hosted IPFS gateway for decentralized content delivery.
 
-## 🚀 Quick Start
+## Features
+- **Content Pinning** - Persistent content storage
+- **Fast Retrieval** - Optimized content delivery
+- **DNSLink** - Custom domain support
+- **Caching** - Edge caching for performance
+- **Analytics** - Access metrics and bandwidth
+- **Self-Hosted** - Full data sovereignty
 
-```bash
-./blackroad-ipfs-gateway.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
